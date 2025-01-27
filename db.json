@@ -1,0 +1,22 @@
+{
+  "recipe": [
+    {
+      "id": "f443",
+      "name": "French Toast",
+      "ingredients": "Milk, Eggs, Bread, Sugar, Butter",
+      "image": "https://blogghetti.com/wp-content/uploads/2024/03/feature-image-for-eggless-french-toast.jpg"
+    },
+    {
+      "name": "BIRIYANI",
+      "ingredients": "Basmati Rice, Chicken, Whole Spices, Ground Spices, Onion, Ghee",
+      "image": "https://yeyfood.com/wp-content/uploads/2024/08/WEB1indian_chicken_biryani._served_on_a_white_plate._s_77c8f1ca-f01e-4a4d-9f2c-61bce785c1d7_3-735x735.jpg",
+      "id": "a0d7"
+    },
+    {
+      "id": "d718",
+      "name": "Mango Ice Cream",
+      "ingredients": "Mango, Cream, Milk, Sugar, Vanilla Extract",
+      "image": "https://bakewithshivesh.com/wp-content/uploads/2022/05/IMG_9492-scaled.jpg"
+    }
+  ]
+}
